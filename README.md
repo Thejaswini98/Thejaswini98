@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thejaswini98&label=Profile%20views&color=0e75b6&style=flat" alt="thejaswini98" /> </p>
 
-- 🔭 I’m currently working on **a large retail client CUSTOMS project**
+- 🔭 I’m currently working on **a large retail client CUSTOMS project as a Oracle PL/SQL Developer**
 
 - 🌱 I’m currently learning **HTML, CSS, Javascript and Microsoft Azure**
 
